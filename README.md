@@ -12,6 +12,6 @@ The objective is to create a Heruflorr website that will enable customers to ide
 **👩🏻‍💻Technologies👨🏻‍💻**  
 - Programming Language: PHP,JavaScript  
 - Framework: Laravel & React  
-- Database: SQL   
+- Database: SQL Lite  
 
 Start : 18 October 2024
